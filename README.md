@@ -16,5 +16,5 @@ A simple Solidity smart contract for recording student attendance on the Ethereu
 
 ## 📁 Project Structure
 
-ClassAttendance.sol # Main smart contract file
+attendance.sol # Main smart contract file
 README.md # Documentation
